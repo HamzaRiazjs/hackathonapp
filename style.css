@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav{
+    background-color: rgb(128,11, 224);
+}
+
+.parel1{
+    color: wheat;
+}
+
+.text{
+    margin-top: 5px;
+    padding: 10px;
+    border-style: outset;
+    border-width: 1px;
+}
+img{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+width: 50px;
+height: 50px;
+}
+/* index.html */
+.index-head{
+    background-color: #7749f7;
+    color: white;
+    padding-left: 40px;
+    font-size: 30px;
+}
+.index-singup{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.index-href{
+float: right;
+padding-right: 40px;
+}
+.index-href button{
+    outline: none;
+    background-color: #7749f7;
+    color: white;
+}
+ a button{
+    font-size: 20px;
+/* outline: #7749f7; */
+border-color: #7749f7;
+}
+.index-main{
+    width: 250px;
+    height: 400px;
+    position: absolute;
+    left: 700px;
+    top: 150px;
+   
+}
+.index-main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.index-register, button{
+    background-color: #7749f7;
+    outline: #7749f7;
+    color: white;
+    outline: none;
+}
+/* login */
+.login-head{
+    background-color: #7749f7;
+    color: white;
+    padding-left: 40px;
+    font-size: 30px;
+}
+.login-singup{
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+.login-href{
+    float: right;
+padding-right: 40px;
+}
+
+.login-main{
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    left: 700px;
+    top: 150px;
+}
+.login-main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.login-singin{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.dashboard{
+    background-color: #7749f7;
+    color: white;
+    padding-left: 40px;
+    font-size: 30px;
+}
+.logoutt {
+    float: right;
+   
+}
+
+.logoutt{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    outline: none;
+    background-color: #7749f7;
+}
+
+.logoutt.button{
+    background-color: #7749f7;
+    outline: none;
+}
+.title{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+
+.title {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 400px;
+}
+
+.title input[type="text"],
+.title textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+}
+.title button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.title button:hover {
+    background-color: #0056b3;
+}
+.blog-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.blog-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.blog-card p {
+    width: 100px;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.5;
+}
+.user-picture{
+    float: right;
+}
+.container{
+    margin-top: 100px;
+    width: 100px;
+
+}
+.profile{
+    background-color: #7749f7;
+    color: white;
+    padding-left: 40px;
+    font-size: 30px;
+}
+.logout-profile{
+    float: right;
+}
+
+
+.dashbrd{
+    float: right;
+    margin-right: 150px;
+    margin-top: -350px;
+}
+div, a {
+    
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
